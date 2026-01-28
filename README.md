@@ -1,4 +1,4 @@
-# Taehyun (Tena) An 👋
+# Taehyun An 👋
 AI/ML Engineer (in training) · CV
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
